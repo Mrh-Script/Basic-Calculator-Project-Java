@@ -24,7 +24,7 @@ This is a basic **Calculator** built using **Java Swing GUI**. It supports simpl
 
 ---
 
-## 🖼️ Screenshot
+## 🖼️ Interface
 
 <img src="calculator.png" alt="Java Calculator Screenshot" width="400"/>
 
