@@ -1,4 +1,4 @@
-# Java GUI Calculator
+# Basic Calculator
 
 ## 📝 Summary
 
